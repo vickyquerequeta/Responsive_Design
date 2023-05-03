@@ -1,0 +1,31 @@
+body {
+    margin: 50px 100px;
+    background-color: rgb(104, 202, 130);
+    justify-content: center;}
+
+section h1 {margin: 15px 15px; text-align: center;}
+
+/* Título */
+.titulo {text-align: center; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; text-decoration: underline;}
+
+/* Link */
+.Link {text-align: center}
+
+/* Ejemplo de canción */
+section p {font-family: Verdana, Geneva, Tahoma, sans-serif; margin: -5px}
+
+/* Columnas con Grid */
+.divBot {background-color: rgb(34, 109, 34);}
+
+/* Boton de Bootstrap */
+div button {text-align: center;}
+
+/*Tarjeta BT*/
+.card {display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: -50vh;}
+
+.card-body { text-align: center; font-size: 15px; margin: -10px;}
+
+.card-img-top text-center {width: 50px;}
